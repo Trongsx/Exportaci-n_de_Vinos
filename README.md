@@ -12,7 +12,7 @@
 categorías de vino chileno ante fluctuaciones en el Tipo de Cambio Real (TCR) 
 durante los últimos 10 años?
 
-## 📊 Fuentes de Datos
+## Fuentes de Datos
 Las bases de datos originales se encuentran en la carpeta `data/raw/`.
 **Oficina de Estudios y Políticas Agrarias (ODEPA):** Matriz detallada de comercio exterior. 
  *Fecha de descarga:* 17 de noviembre de 2026. 
